@@ -8,4 +8,4 @@ image:
 pubDate: 2025-06-28
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
-After a successful first week learning Astrom I decided to try some more. I wrote and imported a small component from memory!
+After a successful first week learning Astro I decided to try some more. I wrote and imported a small component from memory!
